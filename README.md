@@ -40,6 +40,20 @@ AgniNetra is a real-time computer vision command platform powered by YOLOv8 and 
 
 ---
 
+## 📸 Project Screenshots
+
+### Main Dashboard
+![Agni-Netra Dashboard](ScreenShots/dashboard.png)
+
+### Fire Detection
+![Fire Detection](ScreenShots/fire-detection.png)
+
+### Live Camera Detection
+![Live Camera Detection](ScreenShots/live-camera-detection.png)
+
+### Smoke Detection
+![Smoke Detection](ScreenShots/smoke-detection.png)
+
 ## 🚀 Quick Start
 
 ### 1. Activate Environment & Install Dependencies
